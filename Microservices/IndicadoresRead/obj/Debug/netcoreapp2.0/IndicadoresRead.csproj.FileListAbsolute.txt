@@ -1,0 +1,10 @@
+D:\projetos\dotnet\Tcc\Microservices\IndicadoresRead\bin\Debug\netcoreapp2.0\IndicadoresRead.deps.json
+D:\projetos\dotnet\Tcc\Microservices\IndicadoresRead\bin\Debug\netcoreapp2.0\IndicadoresRead.runtimeconfig.json
+D:\projetos\dotnet\Tcc\Microservices\IndicadoresRead\bin\Debug\netcoreapp2.0\IndicadoresRead.runtimeconfig.dev.json
+D:\projetos\dotnet\Tcc\Microservices\IndicadoresRead\bin\Debug\netcoreapp2.0\IndicadoresRead.dll
+D:\projetos\dotnet\Tcc\Microservices\IndicadoresRead\bin\Debug\netcoreapp2.0\IndicadoresRead.pdb
+D:\projetos\dotnet\Tcc\Microservices\IndicadoresRead\obj\Debug\netcoreapp2.0\IndicadoresRead.csproj.CoreCompileInputs.cache
+D:\projetos\dotnet\Tcc\Microservices\IndicadoresRead\obj\Debug\netcoreapp2.0\IndicadoresRead.AssemblyInfoInputs.cache
+D:\projetos\dotnet\Tcc\Microservices\IndicadoresRead\obj\Debug\netcoreapp2.0\IndicadoresRead.AssemblyInfo.cs
+D:\projetos\dotnet\Tcc\Microservices\IndicadoresRead\obj\Debug\netcoreapp2.0\IndicadoresRead.dll
+D:\projetos\dotnet\Tcc\Microservices\IndicadoresRead\obj\Debug\netcoreapp2.0\IndicadoresRead.pdb

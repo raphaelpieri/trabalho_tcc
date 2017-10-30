@@ -1,0 +1,10 @@
+D:\projetos\dotnet\Tcc\Microservices\IndicadoresWrite\bin\Debug\netcoreapp2.0\IndicadoresWrite.deps.json
+D:\projetos\dotnet\Tcc\Microservices\IndicadoresWrite\bin\Debug\netcoreapp2.0\IndicadoresWrite.runtimeconfig.json
+D:\projetos\dotnet\Tcc\Microservices\IndicadoresWrite\bin\Debug\netcoreapp2.0\IndicadoresWrite.runtimeconfig.dev.json
+D:\projetos\dotnet\Tcc\Microservices\IndicadoresWrite\bin\Debug\netcoreapp2.0\IndicadoresWrite.dll
+D:\projetos\dotnet\Tcc\Microservices\IndicadoresWrite\bin\Debug\netcoreapp2.0\IndicadoresWrite.pdb
+D:\projetos\dotnet\Tcc\Microservices\IndicadoresWrite\obj\Debug\netcoreapp2.0\IndicadoresWrite.csproj.CoreCompileInputs.cache
+D:\projetos\dotnet\Tcc\Microservices\IndicadoresWrite\obj\Debug\netcoreapp2.0\IndicadoresWrite.AssemblyInfoInputs.cache
+D:\projetos\dotnet\Tcc\Microservices\IndicadoresWrite\obj\Debug\netcoreapp2.0\IndicadoresWrite.AssemblyInfo.cs
+D:\projetos\dotnet\Tcc\Microservices\IndicadoresWrite\obj\Debug\netcoreapp2.0\IndicadoresWrite.dll
+D:\projetos\dotnet\Tcc\Microservices\IndicadoresWrite\obj\Debug\netcoreapp2.0\IndicadoresWrite.pdb

@@ -1,0 +1,10 @@
+D:\projetos\dotnet\Tcc\Monolitico\Monolitico\bin\Debug\netcoreapp2.0\Monolitico.deps.json
+D:\projetos\dotnet\Tcc\Monolitico\Monolitico\bin\Debug\netcoreapp2.0\Monolitico.runtimeconfig.json
+D:\projetos\dotnet\Tcc\Monolitico\Monolitico\bin\Debug\netcoreapp2.0\Monolitico.runtimeconfig.dev.json
+D:\projetos\dotnet\Tcc\Monolitico\Monolitico\bin\Debug\netcoreapp2.0\Monolitico.dll
+D:\projetos\dotnet\Tcc\Monolitico\Monolitico\bin\Debug\netcoreapp2.0\Monolitico.pdb
+D:\projetos\dotnet\Tcc\Monolitico\Monolitico\obj\Debug\netcoreapp2.0\Monolitico.csproj.CoreCompileInputs.cache
+D:\projetos\dotnet\Tcc\Monolitico\Monolitico\obj\Debug\netcoreapp2.0\Monolitico.AssemblyInfoInputs.cache
+D:\projetos\dotnet\Tcc\Monolitico\Monolitico\obj\Debug\netcoreapp2.0\Monolitico.AssemblyInfo.cs
+D:\projetos\dotnet\Tcc\Monolitico\Monolitico\obj\Debug\netcoreapp2.0\Monolitico.dll
+D:\projetos\dotnet\Tcc\Monolitico\Monolitico\obj\Debug\netcoreapp2.0\Monolitico.pdb

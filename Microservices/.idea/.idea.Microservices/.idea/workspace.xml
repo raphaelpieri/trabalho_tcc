@@ -1,0 +1,808 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fa3d945f-9a87-4d5a-aeb4-4e4e7e5952ba" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="IndicadorDao.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/IndicadoresRead/DataBaseAcess/IndicadorDao.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="23" column="13" lean-forward="true" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+              <folding>
+                <marker date="1508810026979" expanded="false" signature="6:148" ph="..." />
+                <marker date="1508810026979" expanded="true" signature="189:1211" ph="{...}" />
+                <marker date="1508810026979" expanded="true" signature="221:1209" ph="{...}" />
+                <marker date="1508810026979" expanded="true" signature="342:406" ph="{...}" />
+                <marker date="1508810026979" expanded="true" signature="453:789" ph="{...}" />
+                <marker date="1508810026979" expanded="true" signature="567:779" ph="{...}" />
+                <marker date="1508810026979" expanded="true" signature="839:1203" ph="{...}" />
+                <marker date="1508810026979" expanded="true" signature="953:1193" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IndicadorDAO.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/IndicadoresWrite/DataBaseAcess/IndicadorDAO.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="22" column="126" lean-forward="false" selection-start-line="22" selection-start-column="126" selection-end-line="22" selection-end-column="126" />
+              <folding>
+                <marker date="1508809737859" expanded="false" signature="6:115" ph="..." />
+                <marker date="1508809737859" expanded="true" signature="157:817" ph="{...}" />
+                <marker date="1508809737859" expanded="true" signature="189:815" ph="{...}" />
+                <marker date="1508809737859" expanded="true" signature="310:374" ph="{...}" />
+                <marker date="1508809737859" expanded="true" signature="432:809" ph="{...}" />
+                <marker date="1508809737859" expanded="true" signature="559:799" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IndicadorController.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/IndicadoresRead/Controllers/IndicadorController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <folding>
+                <marker date="1508809271206" expanded="false" signature="6:132" ph="..." />
+                <marker date="1508809271206" expanded="true" signature="171:912" ph="{...}" />
+                <marker date="1508809271206" expanded="true" signature="255:910" ph="{...}" />
+                <marker date="1508809271206" expanded="true" signature="377:439" ph="{...}" />
+                <marker date="1508809271206" expanded="true" signature="510:611" ph="{...}" />
+                <marker date="1508809271206" expanded="true" signature="703:895" ph="{...}" />
+                <marker date="1508809271206" expanded="true" signature="801:883" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Indicador.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/IndicadoresRead/Domain/Indicador.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="26" lean-forward="false" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+              <folding>
+                <marker date="1508809654400" expanded="true" signature="47:469" ph="{...}" />
+                <marker date="1508809654400" expanded="true" signature="76:467" ph="{...}" />
+                <marker date="1508809654400" expanded="true" signature="412:461" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Indicador.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/IndicadoresWrite/Domain/Indicador.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="1" lean-forward="false" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+              <folding>
+                <marker date="1508809692522" expanded="true" signature="48:317" ph="{...}" />
+                <marker date="1508809692522" expanded="true" signature="77:315" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/IndicadoresRead/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="21" column="47" lean-forward="false" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
+              <folding>
+                <marker date="1508809271264" expanded="false" signature="6:255" ph="..." />
+                <marker date="1508809271264" expanded="true" signature="282:707" ph="{...}" />
+                <marker date="1508809271264" expanded="true" signature="309:705" ph="{...}" />
+                <marker date="1508809271264" expanded="true" signature="362:699" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Startup.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/IndicadoresRead/Startup.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="31" column="36" lean-forward="false" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
+              <folding>
+                <marker date="1508809271285" expanded="false" signature="6:367" ph="..." />
+                <marker date="1508809271285" expanded="true" signature="394:1459" ph="{...}" />
+                <marker date="1508809271285" expanded="true" signature="421:1457" ph="{...}" />
+                <marker date="1508809271285" expanded="true" signature="475:863" ph="{...}" />
+                <marker date="1508809271285" expanded="true" signature="989:1180" ph="{...}" />
+                <marker date="1508809271285" expanded="true" signature="1291:1451" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IndicadorController.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/IndicadoresWrite/Controllers/IndicadorController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="40" lean-forward="false" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
+              <folding>
+                <marker date="1508809947841" expanded="true" signature="6:149" ph="..." />
+                <marker date="1508809947841" expanded="true" signature="189:967" ph="{...}" />
+                <marker date="1508809947841" expanded="true" signature="273:965" ph="{...}" />
+                <marker date="1508809947841" expanded="true" signature="489:589" ph="{...}" />
+                <marker date="1508809947841" expanded="true" signature="681:959" ph="{...}" />
+                <marker date="1508809947841" expanded="true" signature="865:947" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IndicadoresIntegracao.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/IndicadoresWrite/Integracao/IndicadoresIntegracao.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <folding>
+                <marker date="1508809271351" expanded="false" signature="6:126" ph="..." />
+                <marker date="1508809271351" expanded="true" signature="165:855" ph="{...}" />
+                <marker date="1508809271351" expanded="true" signature="206:853" ph="{...}" />
+                <marker date="1508809271351" expanded="true" signature="275:847" ph="{...}" />
+                <marker date="1508809271351" expanded="true" signature="335:824" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Startup.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/IndicadoresWrite/Startup.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="29" column="59" lean-forward="false" selection-start-line="29" selection-start-column="59" selection-end-line="29" selection-end-column="59" />
+              <folding>
+                <marker date="1508809271440" expanded="true" signature="6:270" ph="..." />
+                <marker date="1508809271440" expanded="true" signature="325:1421" ph="{...}" />
+                <marker date="1508809271440" expanded="true" signature="379:767" ph="{...}" />
+                <marker date="1508809271440" expanded="true" signature="893:1144" ph="{...}" />
+                <marker date="1508809271440" expanded="true" signature="1255:1415" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/IndicadoresRead/DataBaseAcess/IndicadorDao.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IndicadoresRead/Domain/Indicador.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IndicadoresWrite/DataBaseAcess/IndicadorDAO.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IndicadoresWrite/Domain/Indicador.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IndicadoresWrite/Integracao/IndicadoresIntegracao.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IndicadoresRead/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IndicadoresWrite/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IndicadoresRead/appsettings.Development.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IndicadoresWrite/appsettings.Development.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IndicadoresRead/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IndicadoresWrite/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IndicadoresRead/appsettings.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IndicadoresRead/Controllers/IndicadorController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IndicadoresWrite/appsettings.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IndicadoresWrite/Controllers/IndicadorController.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/IndicadoresWrite/Controllers/ValuesController.cs" />
+        <option value="$PROJECT_DIR$/IndicadoresWrite/appsettings.json" />
+        <option value="$PROJECT_DIR$/IndicadoresWrite/Program.cs" />
+        <option value="$PROJECT_DIR$/Messageria/Class1.cs" />
+        <option value="$PROJECT_DIR$/Messageria/Eventos/IndicadorGravadoEvento.cs" />
+        <option value="$PROJECT_DIR$/IndicadoresWrite/Publish/PublicarEvento.cs" />
+        <option value="$PROJECT_DIR$/IndicadoresRead/Controllers/ValuesController.cs" />
+        <option value="$PROJECT_DIR$/IndicadoresRead/appsettings.json" />
+        <option value="$PROJECT_DIR$/IndicadoresRead/Program.cs" />
+        <option value="$PROJECT_DIR$/IndicadoresRead/Consumidor/ConsumirEventoIndicador.cs" />
+        <option value="$PROJECT_DIR$/IndicadoresRead/Startup.cs" />
+        <option value="$PROJECT_DIR$/IndicadoresRead/Controllers/IndicadorController.cs" />
+        <option value="$PROJECT_DIR$/IndicadoresWrite/Integracao/IndicadoresIntegracao.cs" />
+        <option value="$PROJECT_DIR$/IndicadoresWrite/Startup.cs" />
+        <option value="$PROJECT_DIR$/IndicadoresRead/Domain/Indicador.cs" />
+        <option value="$PROJECT_DIR$/IndicadoresWrite/Domain/Indicador.cs" />
+        <option value="$PROJECT_DIR$/IndicadoresWrite/DataBaseAcess/IndicadorDAO.cs" />
+        <option value="$PROJECT_DIR$/IndicadoresWrite/Controllers/IndicadorController.cs" />
+        <option value="$PROJECT_DIR$/IndicadoresRead/DataBaseAcess/IndicadorDao.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1696" />
+    <option name="height" value="1026" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Microservices (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Microservices (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="IndicadoresRead" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Microservices (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="IndicadoresRead" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Controllers" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Microservices (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="IndicadoresRead" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="DataBaseAcess" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Microservices (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="IndicadoresRead" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Domain" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Microservices (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="IndicadoresWrite" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Microservices (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="IndicadoresWrite" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Controllers" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Microservices (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="IndicadoresWrite" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="DataBaseAcess" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Microservices (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="IndicadoresWrite" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Domain" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Project.Write">
+    <configuration name="Read" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/IndicadoresRead/IndicadoresRead.csproj" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.0" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/IndicadoresRead/bin/Debug/netcoreapp2.0/IndicadoresRead.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Production" />
+        <env name="ASPNETCORE_URLS" value="http://localhost:5000" />
+      </envs>
+    </configuration>
+    <configuration name="Write" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/IndicadoresWrite/IndicadoresWrite.csproj" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.0" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/IndicadoresWrite/bin/Debug/netcoreapp2.0/IndicadoresWrite.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Production" />
+        <env name="ASPNETCORE_URLS" value="http://localhost:5000" />
+      </envs>
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue=".NET Project.Write" />
+      <item index="1" class="java.lang.String" itemvalue=".NET Project.Read" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa3d945f-9a87-4d5a-aeb4-4e4e7e5952ba" name="Default" comment="" />
+      <created>1508800974155</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1508800974155</updated>
+      <workItem from="1508800975731" duration="4900000" />
+      <workItem from="1508809272030" duration="1090000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5990000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32968238" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32968238" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2029762" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32968238" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39978093" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/IndicadoresRead/Controllers/IndicadorController.cs</url>
+          <line>27</line>
+          <properties documentPath="$PROJECT_DIR$/IndicadoresRead/Controllers/IndicadorController.cs">
+            <startOffsets>
+              <startOffset value="726" />
+            </startOffsets>
+            <endOffsets>
+              <endOffset value="762" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/IndicadoresWrite/Controllers/IndicadorController.cs</url>
+          <line>24</line>
+          <properties documentPath="$PROJECT_DIR$/IndicadoresWrite/Controllers/IndicadorController.cs">
+            <startOffsets>
+              <startOffset value="745" />
+            </startOffsets>
+            <endOffsets>
+              <endOffset value="776" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/IndicadoresRead/Controllers/IndicadorController.cs</url>
+          <line>20</line>
+          <properties documentPath="$PROJECT_DIR$/IndicadoresRead/Controllers/IndicadorController.cs">
+            <startOffsets>
+              <startOffset value="533" />
+            </startOffsets>
+            <endOffsets>
+              <endOffset value="571" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="6" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/IndicadoresRead/DataBaseAcess/IndicadorDao.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="99" lean-forward="false" selection-start-line="28" selection-start-column="99" selection-end-line="28" selection-end-column="99" />
+          <folding>
+            <marker date="1508810026979" expanded="false" signature="6:148" ph="..." />
+            <marker date="1508810026979" expanded="true" signature="189:1211" ph="{...}" />
+            <marker date="1508810026979" expanded="true" signature="221:1209" ph="{...}" />
+            <marker date="1508810026979" expanded="true" signature="342:406" ph="{...}" />
+            <marker date="1508810026979" expanded="true" signature="453:789" ph="{...}" />
+            <marker date="1508810026979" expanded="true" signature="567:779" ph="{...}" />
+            <marker date="1508810026979" expanded="true" signature="839:1203" ph="{...}" />
+            <marker date="1508810026979" expanded="true" signature="953:1193" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IndicadoresRead/Controllers/IndicadorController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="9" lean-forward="false" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+          <folding>
+            <marker date="1508809271206" expanded="false" signature="6:132" ph="..." />
+            <marker date="1508809271206" expanded="true" signature="171:912" ph="{...}" />
+            <marker date="1508809271206" expanded="true" signature="255:910" ph="{...}" />
+            <marker date="1508809271206" expanded="true" signature="377:439" ph="{...}" />
+            <marker date="1508809271206" expanded="true" signature="510:611" ph="{...}" />
+            <marker date="1508809271206" expanded="true" signature="703:895" ph="{...}" />
+            <marker date="1508809271206" expanded="true" signature="801:883" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IndicadoresRead/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="47" lean-forward="false" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
+          <folding>
+            <marker date="1508809271264" expanded="false" signature="6:255" ph="..." />
+            <marker date="1508809271264" expanded="true" signature="282:707" ph="{...}" />
+            <marker date="1508809271264" expanded="true" signature="309:705" ph="{...}" />
+            <marker date="1508809271264" expanded="true" signature="362:699" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IndicadoresRead/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="31" column="36" lean-forward="false" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
+          <folding>
+            <marker date="1508809271285" expanded="false" signature="6:367" ph="..." />
+            <marker date="1508809271285" expanded="true" signature="394:1459" ph="{...}" />
+            <marker date="1508809271285" expanded="true" signature="421:1457" ph="{...}" />
+            <marker date="1508809271285" expanded="true" signature="475:863" ph="{...}" />
+            <marker date="1508809271285" expanded="true" signature="989:1180" ph="{...}" />
+            <marker date="1508809271285" expanded="true" signature="1291:1451" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IndicadoresWrite/Controllers/IndicadorController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="63" lean-forward="false" selection-start-line="20" selection-start-column="63" selection-end-line="20" selection-end-column="63" />
+          <folding>
+            <marker date="1508809947841" expanded="true" signature="6:149" ph="..." />
+            <marker date="1508809947841" expanded="true" signature="189:967" ph="{...}" />
+            <marker date="1508809947841" expanded="true" signature="273:965" ph="{...}" />
+            <marker date="1508809947841" expanded="true" signature="489:589" ph="{...}" />
+            <marker date="1508809947841" expanded="true" signature="681:959" ph="{...}" />
+            <marker date="1508809947841" expanded="true" signature="865:947" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IndicadoresWrite/Integracao/IndicadoresIntegracao.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="112" lean-forward="false" selection-start-line="20" selection-start-column="112" selection-end-line="20" selection-end-column="112" />
+          <folding>
+            <marker date="1508809271351" expanded="false" signature="6:126" ph="..." />
+            <marker date="1508809271351" expanded="true" signature="165:855" ph="{...}" />
+            <marker date="1508809271351" expanded="true" signature="206:853" ph="{...}" />
+            <marker date="1508809271351" expanded="true" signature="275:847" ph="{...}" />
+            <marker date="1508809271351" expanded="true" signature="335:824" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IndicadoresWrite/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="59" lean-forward="false" selection-start-line="29" selection-start-column="59" selection-end-line="29" selection-end-column="59" />
+          <folding>
+            <marker date="1508809271440" expanded="true" signature="6:270" ph="..." />
+            <marker date="1508809271440" expanded="true" signature="325:1421" ph="{...}" />
+            <marker date="1508809271440" expanded="true" signature="379:767" ph="{...}" />
+            <marker date="1508809271440" expanded="true" signature="893:1144" ph="{...}" />
+            <marker date="1508809271440" expanded="true" signature="1255:1415" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IndicadoresWrite/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="25" column="9" lean-forward="false" selection-start-line="14" selection-start-column="8" selection-end-line="25" selection-end-column="9" />
+          <folding>
+            <marker date="1508809271928" expanded="false" signature="6:255" ph="..." />
+            <marker date="1508809271928" expanded="true" signature="283:708" ph="{...}" />
+            <marker date="1508809271928" expanded="true" signature="310:706" ph="{...}" />
+            <marker date="1508809271928" expanded="true" signature="363:700" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IndicadoresRead/appsettings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="17" />
+          <folding>
+            <marker date="1508809271971" expanded="true" signature="25:123" ph="{...}" />
+            <marker date="1508809271971" expanded="true" signature="138:330" ph="{...}" />
+            <marker date="1508809271971" expanded="true" signature="201:239" ph="{...}" />
+            <marker date="1508809271971" expanded="true" signature="282:320" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files/dotnet/sdk/2.0.0/Microsoft.Common.CurrentVersion.targets">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60750">
+          <caret line="4050" column="4" lean-forward="false" selection-start-line="4050" selection-start-column="4" selection-end-line="4050" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Microservices/Controllers/ValuesController.cs" />
+    <entry file="file://$PROJECT_DIR$/IndicadoresWrite/Controllers/ValuesController.cs" />
+    <entry file="file://$PROJECT_DIR$/IndicadoresWrite/appsettings.Development.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Messageria/Class1.cs" />
+    <entry file="file://$PROJECT_DIR$/Messageria/Eventos/IndicadorGravadoEvento.cs" />
+    <entry file="file://$PROJECT_DIR$/IndicadoresWrite/Publish/PublicarEvento.cs" />
+    <entry file="file://$PROJECT_DIR$/IndicadoresRead/Controllers/ValuesController.cs" />
+    <entry file="file://$PROJECT_DIR$/IndicadoresRead/appsettings.Development.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IndicadoresWrite/appsettings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IndicadoresRead/appsettings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="17" />
+          <folding>
+            <marker date="1508809271971" expanded="true" signature="25:123" ph="{...}" />
+            <marker date="1508809271971" expanded="true" signature="138:330" ph="{...}" />
+            <marker date="1508809271971" expanded="true" signature="201:239" ph="{...}" />
+            <marker date="1508809271971" expanded="true" signature="282:320" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IndicadoresWrite/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="25" column="9" lean-forward="false" selection-start-line="14" selection-start-column="8" selection-end-line="25" selection-end-column="9" />
+          <folding>
+            <marker date="1508809271928" expanded="false" signature="6:255" ph="..." />
+            <marker date="1508809271928" expanded="true" signature="283:708" ph="{...}" />
+            <marker date="1508809271928" expanded="true" signature="310:706" ph="{...}" />
+            <marker date="1508809271928" expanded="true" signature="363:700" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IndicadoresRead/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="21" column="47" lean-forward="false" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
+          <folding>
+            <marker date="1508809271264" expanded="false" signature="6:255" ph="..." />
+            <marker date="1508809271264" expanded="true" signature="282:707" ph="{...}" />
+            <marker date="1508809271264" expanded="true" signature="309:705" ph="{...}" />
+            <marker date="1508809271264" expanded="true" signature="362:699" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IndicadoresRead/Consumidor/ConsumirEventoIndicador.cs" />
+    <entry file="file://$PROJECT_DIR$/IndicadoresRead/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="31" column="36" lean-forward="false" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
+          <folding>
+            <marker date="1508809271285" expanded="false" signature="6:367" ph="..." />
+            <marker date="1508809271285" expanded="true" signature="394:1459" ph="{...}" />
+            <marker date="1508809271285" expanded="true" signature="421:1457" ph="{...}" />
+            <marker date="1508809271285" expanded="true" signature="475:863" ph="{...}" />
+            <marker date="1508809271285" expanded="true" signature="989:1180" ph="{...}" />
+            <marker date="1508809271285" expanded="true" signature="1291:1451" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IndicadoresWrite/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="59" lean-forward="false" selection-start-line="29" selection-start-column="59" selection-end-line="29" selection-end-column="59" />
+          <folding>
+            <marker date="1508809271440" expanded="true" signature="6:270" ph="..." />
+            <marker date="1508809271440" expanded="true" signature="325:1421" ph="{...}" />
+            <marker date="1508809271440" expanded="true" signature="379:767" ph="{...}" />
+            <marker date="1508809271440" expanded="true" signature="893:1144" ph="{...}" />
+            <marker date="1508809271440" expanded="true" signature="1255:1415" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files/dotnet/sdk/2.0.0/Microsoft.Common.CurrentVersion.targets">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="4050" column="4" lean-forward="false" selection-start-line="4050" selection-start-column="4" selection-end-line="4050" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IndicadoresWrite/Integracao/IndicadoresIntegracao.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <marker date="1508809271351" expanded="false" signature="6:126" ph="..." />
+            <marker date="1508809271351" expanded="true" signature="165:855" ph="{...}" />
+            <marker date="1508809271351" expanded="true" signature="206:853" ph="{...}" />
+            <marker date="1508809271351" expanded="true" signature="275:847" ph="{...}" />
+            <marker date="1508809271351" expanded="true" signature="335:824" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IndicadoresRead/Domain/Indicador.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="26" lean-forward="false" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+          <folding>
+            <marker date="1508809654400" expanded="true" signature="47:469" ph="{...}" />
+            <marker date="1508809654400" expanded="true" signature="76:467" ph="{...}" />
+            <marker date="1508809654400" expanded="true" signature="412:461" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IndicadoresWrite/Domain/Indicador.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="1" lean-forward="false" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding>
+            <marker date="1508809692522" expanded="true" signature="48:317" ph="{...}" />
+            <marker date="1508809692522" expanded="true" signature="77:315" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IndicadoresWrite/DataBaseAcess/IndicadorDAO.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="22" column="126" lean-forward="false" selection-start-line="22" selection-start-column="126" selection-end-line="22" selection-end-column="126" />
+          <folding>
+            <marker date="1508809737859" expanded="false" signature="6:115" ph="..." />
+            <marker date="1508809737859" expanded="true" signature="157:817" ph="{...}" />
+            <marker date="1508809737859" expanded="true" signature="189:815" ph="{...}" />
+            <marker date="1508809737859" expanded="true" signature="310:374" ph="{...}" />
+            <marker date="1508809737859" expanded="true" signature="432:809" ph="{...}" />
+            <marker date="1508809737859" expanded="true" signature="559:799" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IndicadoresWrite/Controllers/IndicadorController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="40" lean-forward="false" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
+          <folding>
+            <marker date="1508809947841" expanded="true" signature="6:149" ph="..." />
+            <marker date="1508809947841" expanded="true" signature="189:967" ph="{...}" />
+            <marker date="1508809947841" expanded="true" signature="273:965" ph="{...}" />
+            <marker date="1508809947841" expanded="true" signature="489:589" ph="{...}" />
+            <marker date="1508809947841" expanded="true" signature="681:959" ph="{...}" />
+            <marker date="1508809947841" expanded="true" signature="865:947" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IndicadoresRead/Controllers/IndicadorController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding>
+            <marker date="1508809271206" expanded="false" signature="6:132" ph="..." />
+            <marker date="1508809271206" expanded="true" signature="171:912" ph="{...}" />
+            <marker date="1508809271206" expanded="true" signature="255:910" ph="{...}" />
+            <marker date="1508809271206" expanded="true" signature="377:439" ph="{...}" />
+            <marker date="1508809271206" expanded="true" signature="510:611" ph="{...}" />
+            <marker date="1508809271206" expanded="true" signature="703:895" ph="{...}" />
+            <marker date="1508809271206" expanded="true" signature="801:883" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IndicadoresRead/DataBaseAcess/IndicadorDao.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="23" column="13" lean-forward="true" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+          <folding>
+            <marker date="1508810026979" expanded="false" signature="6:148" ph="..." />
+            <marker date="1508810026979" expanded="true" signature="189:1211" ph="{...}" />
+            <marker date="1508810026979" expanded="true" signature="221:1209" ph="{...}" />
+            <marker date="1508810026979" expanded="true" signature="342:406" ph="{...}" />
+            <marker date="1508810026979" expanded="true" signature="453:789" ph="{...}" />
+            <marker date="1508810026979" expanded="true" signature="567:779" ph="{...}" />
+            <marker date="1508810026979" expanded="true" signature="839:1203" ph="{...}" />
+            <marker date="1508810026979" expanded="true" signature="953:1193" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

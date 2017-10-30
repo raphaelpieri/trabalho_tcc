@@ -1,0 +1,8 @@
+CREATE TABLE dbo.Indicadores(
+	id uniqueidentifier  NOT NULL,
+	Sigla varchar(10) NOT NULL,
+	NomeIndicador varchar(60) NOT NULL,
+	PorcentagemGanha numeric(5,2) NOT NULL,
+	Valor numeric (18,4) NOT NULL,
+	CONSTRAINT PK_Indicadores PRIMARY KEY (id)
+)

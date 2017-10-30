@@ -1,0 +1,49 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "D:\\projetos\\dotnet\\Tcc\\Microservices\\IndicadoresRead\\IndicadoresRead.csproj",
+    "projectName": "IndicadoresRead",
+    "projectPath": "D:\\projetos\\dotnet\\Tcc\\Microservices\\IndicadoresRead\\IndicadoresRead.csproj",
+    "outputPath": "D:\\projetos\\dotnet\\Tcc\\Microservices\\IndicadoresRead\\obj\\",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {}
+      }
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "target": "Package",
+          "version": "2.0.0"
+        },
+        "Dapper": {
+          "target": "Package",
+          "version": "1.50.4-alpha1-00070"
+        },
+        "Microsoft.AspNetCore.All": {
+          "target": "Package",
+          "version": "2.0.0"
+        },
+        "RabbitMQ.Client": {
+          "target": "Package",
+          "version": "5.0.1"
+        },
+        "System.Data.SqlClient": {
+          "target": "Package",
+          "version": "4.4.0"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}
